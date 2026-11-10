@@ -1,0 +1,7 @@
+# 项目内的 home/：保留索引，忽略实验和缓存。
+home/*
+!home/README.md
+
+# Python 缓存
+__pycache__/
+*.py[cod]
